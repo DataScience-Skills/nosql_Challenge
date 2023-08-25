@@ -6,4 +6,4 @@ Employing MongoDB and PyMongo, I dissect UK food hygiene ratings for the editors
 ## Tools:
 - MongoDB
 - PyMongo
-- Python.
+- Python
